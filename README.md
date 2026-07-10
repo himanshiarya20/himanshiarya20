@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Himanshi Arya — Welcome to my GitHub!
 
 <!--
 **himanshiarya20/himanshiarya20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
