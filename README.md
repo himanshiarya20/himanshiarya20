@@ -6,7 +6,7 @@
 
 I'm a detail-oriented QA Engineer who has worked on large-scale digital advertising platforms across global teams in India, Vietnam, and Singapore. I specialize in end-to-end manual testing, API testing, and building robust test documentation that keeps releases clean and clients happy.
 
-My GitHub is a growing space where I share test plans, QA resources, bug report templates, and practice automation projects. If you're a fellow tester, developer, or someone passionate about software quality — welcome, let's connect! 🧪✅🚀
+My GitHub is a growing space where I share test plans, QA resources, bug report templates, and practice automation projects by using Playwiright with Javascript. If you're a fellow tester, developer, or someone passionate about software quality — welcome, let's connect! 🧪✅🚀
 
 📫 Reach me at: himanshi.arya@email.com
 🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
