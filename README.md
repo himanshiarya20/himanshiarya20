@@ -12,11 +12,10 @@ My GitHub is a growing space where I share test plans, QA resources, bug report 
 🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
 📍 Pune, India
 
-## 🎒 What I bring to the table...
+## 🎒 Here's What I bring to the table...
 
-
-✅ End-to-end Manual Testing across web and mobile platforms
-🔗 API Testing using Postman — validating payloads, status codes, headers & JSON schemas
+### ✅ End-to-end Manual Testing across web and mobile platforms
+### 🔗 API Testing using Postman — validating payloads, status codes, headers & JSON schemas
 🗄️ SQL-based data validation for backend testing
 📋 Expertise in writing Test Plans, Test Cases, Bug Reports & Test Summary Reports
 🔁 Strong grasp of SDLC / STLC and Agile Scrum workflows
@@ -25,3 +24,24 @@ My GitHub is a growing space where I share test plans, QA resources, bug report 
 🌐 Cross-browser & Mobile testing (iOS & Android)
 📊 Performance & Load Testing using Apache JMeter
 🤝 Experienced in UAT sign-off, sprint planning, and stakeholder communication
+
+## 🌱 Currently Learning
+
+My goal is to grow from a strong Manual QA Engineer into a well-rounded SDET. I'm currently deepening my skills in:
+
+🎭 Test Automation - Playwright with JavaScript — building end-to-end automation test scripts
+🌐 JavaScript basics — strengthening scripting foundations for automation
+⚡ Cypress (basics) — exploring modern browser automation frameworks
+🔧 CI/CD pipelines concepts — understanding how automated tests fit into release pipelines
+☁️ Cloud basics — AWS fundamentals for test environments
+🤖 AI Tools for QA — leveraging ChatGPT, Claude AI, Genspark AI, Notion AI & Gemini AI to boost testing productivity
+
+## 💼 Domain Expertise
+
+📢 AdTech Domain — 3.7 Years
+├── Real-Time Bidding (RTB) platforms
+├── Campaign lifecycle testing (setup → targeting → budget → performance)
+├── DSP / SSP platform validation
+├── Ad inventory & publisher/advertiser access management
+└── Reporting & billing data integrity
+
