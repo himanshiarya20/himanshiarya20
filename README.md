@@ -2,7 +2,7 @@
 
 🔍 I'm a QA Engineer with 3.7+ years of experience in the AdTech domain, passionate about ensuring software quality through structured manual testing, API validation, and test documentation. I believe quality is not just a phase — it's a mindset.
 
-### 🙍🏻‍♀️ A little about me...
+## 🙍🏻‍♀️ A little about me...
 
 I'm a detail-oriented QA Engineer who has worked on large-scale digital advertising platforms across global teams in India, Vietnam, and Singapore. I specialize in end-to-end manual testing, API testing, and building robust test documentation that keeps releases clean and clients happy.
 
