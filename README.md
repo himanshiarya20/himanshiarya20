@@ -11,3 +11,17 @@ My GitHub is a growing space where I share test plans, QA resources, bug report 
 📫 Reach me at: himanshi.arya@email.com
 🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
 📍 Pune, India
+
+##🎒 What I bring to the table...
+
+
+✅ End-to-end Manual Testing across web and mobile platforms
+🔗 API Testing using Postman — validating payloads, status codes, headers & JSON schemas
+🗄️ SQL-based data validation for backend testing
+📋 Expertise in writing Test Plans, Test Cases, Bug Reports & Test Summary Reports
+🔁 Strong grasp of SDLC / STLC and Agile Scrum workflows
+🎯 Domain expertise in AdTech — RTB, campaign management, ad inventory, DSP/SSP platforms
+🧰 Proficient with JIRA, TestLink, Confluence for test management
+🌐 Cross-browser & Mobile testing (iOS & Android)
+📊 Performance & Load Testing using Apache JMeter
+🤝 Experienced in UAT sign-off, sprint planning, and stakeholder communication
