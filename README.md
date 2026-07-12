@@ -12,7 +12,7 @@ My GitHub is a growing space where I share test plans, QA resources, bug report 
 🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
 📍 Pune, India
 
-##🎒 What I bring to the table...
+## 🎒 What I bring to the table...
 
 
 ✅ End-to-end Manual Testing across web and mobile platforms
