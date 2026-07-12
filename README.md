@@ -8,9 +8,9 @@ I'm a detail-oriented QA Engineer who has worked on large-scale digital advertis
 
 My GitHub is a growing space where I share test plans, QA resources, bug report templates, and practice automation projects by using Playwiright with Javascript. If you're a fellow tester, developer, or someone passionate about software quality — welcome, let's connect! 🧪✅🚀
 
-📫 Reach me at: himanshi.arya@email.com
-🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
-📍 Pune, India
+##### 📫 Reach me at: himanshi.arya@email.com
+##### 🌐 LinkedIn: https://www.linkedin.com/in/himanshi-arya-104480188/
+##### 📍 Pune, India
 
 ## 🎒 Here's What I bring to the table...
 
@@ -18,12 +18,12 @@ My GitHub is a growing space where I share test plans, QA resources, bug report 
 ##### 🔗 API Testing using Postman — validating payloads, status codes, headers & JSON schemas
 ##### 🗄️ SQL-based data validation for backend testing
 ##### 📋 Expertise in writing Test Plans, Test Cases, Bug Reports & Test Summary Reports
-🔁 Strong grasp of SDLC / STLC and Agile Scrum workflows
-🎯 Domain expertise in AdTech — RTB, campaign management, ad inventory, DSP/SSP platforms
-🧰 Proficient with JIRA, TestLink, Confluence for test management
-🌐 Cross-browser & Mobile testing (iOS & Android)
-📊 Performance & Load Testing using Apache JMeter
-🤝 Experienced in UAT sign-off, sprint planning, and stakeholder communication
+##### 🔁 Strong grasp of SDLC / STLC and Agile Scrum workflows
+##### 🎯 Domain expertise in AdTech — RTB, campaign management, ad inventory, DSP/SSP platforms
+##### 🧰 Proficient with JIRA, TestLink, Confluence for test management
+##### 🌐 Cross-browser & Mobile testing (iOS & Android)
+##### 📊 Performance & Load Testing using Apache JMeter
+##### 🤝 Experienced in UAT sign-off, sprint planning, and stakeholder communication
 
 ## 🌱 Currently Learning
 
