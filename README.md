@@ -25,7 +25,7 @@ Outside of work, I enjoy exploring new tools, contributing to the QA community, 
 ## 🎒 What I bring to the table...
 
 ✅ End-to-end **Manual Testing** across web and mobile platforms <br/>
-🔗 **REST API Testing** using Postman — validating payloads, status codes, headers & JSON schemas <br/>
+🔗 **API Testing** using Postman — validating payloads, status codes, headers & JSON schemas <br/>
 🗄️ **SQL-based data validation** for backend and billing integrity checks <br/>
 📋 Expertise in writing **Test Plans, Test Cases, Bug Reports & Test Summary Reports** <br/>
 🔁 Strong grasp of **SDLC / STLC** and Agile Scrum workflows <br/>
