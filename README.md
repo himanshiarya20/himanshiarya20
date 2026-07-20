@@ -16,7 +16,7 @@ Currently, I'm up-skilling in **Playwright with JavaScript** to transition into 
 
 Outside of work, I enjoy exploring new tools, contributing to the QA community, and helping teams ship software they're proud of. 🚀
 
-📫 Reach me at: **himanshiarya510@gmail.com** <br/>
+📫 Reach me at: **[himanshiarya510@gmail.com](himanshiarya510@gmail.com)** <br/>
 🌐 LinkedIn: **[linkedin.com/in/himanshi-arya](https://linkedin.com/in/himanshi-arya)** <br/>
 💼 Resume: **[Himanshi-Arya-CV](https://www.dropbox.com/scl/fi/1pxi7j7iq6wom9ngnf7cj/Himanshi-Arya-MCV.pdf?rlkey=hcrm7zi0vcraua0jj2nnq3jwn&st=tkh6bqot&dl=0)** </br>
 📍 Pune, India
