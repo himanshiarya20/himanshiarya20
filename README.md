@@ -1,23 +1,24 @@
 # 👋 Hi, I'm Himanshi Arya — Welcome to my GitHub!
 
-#### 🔍 I'm a QA Engineer with 3.7+ years of experience in the AdTech domain, passionate about ensuring software quality through structured manual testing, API validation, and test documentation. I believe quality is not just a phase — it's a mindset.
+#### 🔍 I'm a QA Engineer with around 4 years of experience in the AdTech domain, passionate about ensuring software quality through structured manual testing, API validation, and test documentation. I believe quality is not just a phase — it's a mindset.
 
 ---
 
 ## 🙍🏻‍♀️ A little about me...
 
-I'm a detail-oriented **QA Engineer with 3.8 years of experience** working on large-scale **AdTech platforms** across global teams in India, Vietnam, Singapore, and the USA. I've been part of fast-paced Agile squads at **Knorex India**, where I owned end-to-end quality for platforms like **XPO Media Broker**, **AdZiggy**, and an **Enterprise Digital Advertising Platform** — covering everything from campaign creation to real-time bidding (RTB) and reporting.
+I'm a detail-oriented **QA Engineer with around 4 years of experience** working on large-scale **AdTech platforms** across global teams in India, Vietnam, Singapore, and the USA. I've been part of fast-paced Agile squads at **Knorex India**, where I owned end-to-end quality for platforms like **XPO Media Broker**, **AdZiggy**, and an **Enterprise Digital Advertising Platform** — covering everything from campaign creation to real-time bidding (RTB) and reporting.
 
 I take pride in being the last line of defence before production. I've maintained **0 escaped critical defects** across 8 consecutive weekly releases and was recognised with the 🏆 **Bravo Award 2025** for outstanding ownership and consistently protecting production from high-impact defects.
 
-My expertise spans **manual testing, REST API testing with Postman, SQL-based data validation, JSON schema verification, performance testing with JMeter**, and thorough test documentation. I've tested across web, mobile (iOS & Android), and cross-browser environments.
+My expertise spans **manual testing, API testing with Postman, SQL-based data validation, JSON schema verification, performance testing with JMeter**, and thorough test documentation. I've tested across web, mobile (iOS & Android), and cross-browser environments.
 
 Currently, I'm up-skilling in **Playwright with JavaScript** to transition into automation — because a great QA engineer never stops learning. I also actively use **AI tools** (ChatGPT, Claude AI, Genspark AI, Notion AI) to boost testing productivity and documentation quality.
 
 Outside of work, I enjoy exploring new tools, contributing to the QA community, and helping teams ship software they're proud of. 🚀
 
 📫 Reach me at: **himanshiarya510@gmail.com** <br/>
-🌐 LinkedIn: [linkedin.com/in/himanshi-arya](https://linkedin.com/in/himanshi-arya) <br/>
+🌐 LinkedIn: **[linkedin.com/in/himanshi-arya](https://linkedin.com/in/himanshi-arya)** <br/>
+💼 Resume: **[Himanshi-Arya-CV](https://www.dropbox.com/scl/fi/1pxi7j7iq6wom9ngnf7cj/Himanshi-Arya-MCV.pdf?rlkey=hcrm7zi0vcraua0jj2nnq3jwn&st=tkh6bqot&dl=0)** </br>
 📍 Pune, India
 
 ---
@@ -70,7 +71,7 @@ My goal is to grow from a strong Manual QA Engineer into a well-rounded **Automa
 ## 💼 Domain Expertise
 
 ```
-📢 AdTech Domain — 3.7 Years
+📢 AdTech Domain — 3.5 Years
 ├── Real-Time Bidding (RTB) platforms
 ├── Campaign lifecycle testing (setup → targeting → budget → performance)
 ├── DSP / SSP platform validation
